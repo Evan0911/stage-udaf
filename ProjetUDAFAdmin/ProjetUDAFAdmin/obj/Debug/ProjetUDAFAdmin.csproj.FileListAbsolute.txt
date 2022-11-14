@@ -1,0 +1,152 @@
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe.config
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.pdb
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csprojAssemblyReference.cache
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\App.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.cache
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.lref
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.g.resources
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.Properties.Resources.resources
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.GenerateResource.cache
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CoreCompileInputs.cache
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.exe
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.pdb
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddShortcut.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddShortcut.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\BouncyCastle.Crypto.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Ubiety.Dns.Core.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Zstandard.Net.dll
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.pdb
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CopyComplete
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.baml
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.g.cs
+D:\bureau\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe.config
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.pdb
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\BouncyCastle.Crypto.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Ubiety.Dns.Core.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Zstandard.Net.dll
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.pdb
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csprojAssemblyReference.cache
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\App.g.cs
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.cache
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.lref
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.baml
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.g.resources
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.Properties.Resources.resources
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.GenerateResource.cache
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CoreCompileInputs.cache
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CopyComplete
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.exe
+D:\bureau\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.pdb
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe.config
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.exe
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\ProjetUDAFAdmin.pdb
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\BouncyCastle.Crypto.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Ubiety.Dns.Core.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Zstandard.Net.dll
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.pdb
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Google.Protobuf.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\K4os.Hash.xxHash.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\MySql.Data.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\Renci.SshNet.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Buffers.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Memory.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Numerics.Vectors.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.AssemblyReference.cache
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\App.g.cs
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.cache
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin_MarkupCompile.lref
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\AddMetier.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ListArticle.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifArticle.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ModifShortcut.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\PageView.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ShowArticle.baml
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.g.resources
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.Properties.Resources.resources
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.GenerateResource.cache
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CoreCompileInputs.cache
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.csproj.CopyComplete
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.exe
+D:\Portfolio\a faire\Stage UDAF\ProjetUDAFAdmin\ProjetUDAFAdmin\obj\Debug\ProjetUDAFAdmin.pdb

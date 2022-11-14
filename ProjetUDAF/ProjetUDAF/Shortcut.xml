@@ -1,0 +1,20 @@
+<root>
+  <shortcut>
+    <google_chrome>
+      <name>Google Chrome</name>
+      <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+      <imgPath />
+      <metier>general</metier>
+      <row>2</row>
+      <column>1</column>
+    </google_chrome>
+	<visual_studio>
+      <name>Visual Studio</name>
+      <path>D:\Visual Studio\Common7\IDE\devenv.exe</path>
+      <imgPath />
+      <metier>comptable</metier>
+      <row>2</row>
+      <column>1</column>
+    </visual_studio>
+  </shortcut>
+</root>

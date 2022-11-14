@@ -1,0 +1,18 @@
+﻿<Window x:Class="ProjetUDAFAdmin.ModifArticle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetUDAFAdmin"
+        mc:Ignorable="d"
+        Title="ModifArticle" Height="450" Width="800">
+    <Grid Background="#FF3FA1A6">
+        <Button x:Name="BtnOk" Content="Valider" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Margin="0,0,10,10" Height="50" Click="BtnOk_Click"/>
+        <TextBox x:Name="TxtTitre" Height="50" TextWrapping="Wrap" VerticalAlignment="Top" Margin="114,10,10,0" FontSize="20"/>
+        <TextBox x:Name="TxtContenu" TextWrapping="Wrap" Margin="10,136,10,65" FontSize="20"/>
+        <Label Content="Titre :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" FontSize="36"/>
+        <Label Content="Contenu :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,73,0,0" FontSize="36"/>
+        <Button x:Name="BtnRetour" Content="Retour" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Margin="10,0,0,10" Height="50" Click="BtnRetour_Click"/>
+
+    </Grid>
+</Window>
